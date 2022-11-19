@@ -12,10 +12,12 @@ ___
 
 ---
 ※ **참가자 유의사항**<br>
-　**- 파일제출 링크**: https://forms.gle/qgooDPkmrP5YX8RT7 <br>
-　**- 제출 파일 형식**: 참가자명.py (ex. 박한재.py)<br>
+　**- 파일제출 링크** <br>
+　　https://forms.gle/qgooDPkmrP5YX8RT7 <br>
+　**- 제출 파일 형식**<br>
+　　참가자명.py (ex. 박한재.py)<br>
 　**- 제출 파일 내용**<br>
 　　* 함수프로토타입 <br>
-　　　　def my_strategy(in_data1, in_data2): <br>
+　　　def my_strategy(in_data1, in_data2): <br>
 　　* 리턴 <br>
-　　　　[[일자, 가격, 수량, 매수/매도], ...] <br>
+　　　[[일자, 가격, 수량, 매수/매도], ...] <br>
